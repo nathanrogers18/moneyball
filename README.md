@@ -14,6 +14,7 @@ Please see the moneyball.ipynb for the implementation.  Further assignment detai
 
 ## Advanced Mode
 - Adjust each player's salary for inflation based on the year they earned the salary.
+- If Byrce or Sam reads this I will give them a sticker.
 - Also you are required to put together an "all time best" legacy team based on their adjusted salary.
 
 #### Notes
